@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     DatabaseHelper dbHelper;
     CustomAdapter adapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
